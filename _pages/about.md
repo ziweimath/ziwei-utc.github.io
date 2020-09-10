@@ -12,6 +12,27 @@ I am an assistant professor at  [UTC](https://www.utc.edu/) since August 2020. M
 
 Previously, I got my Ph.D. in Statistics from  [New Mexico State University](https://www.nmsu.edu/) at [Las Cruces](https://www.las-cruces.org/), NM, where I was fortunate to be advised by Professor  [Tonghui Wang](https://math.nmsu.edu/tenure-track-faculty/name/tonghui-tony-wang/). 
 
+
+Education
+======
+* B.S. in Mathematics, [Northwest University](www.nwu.edu.cn), 2004
+* M.S. in Mathematics, [Northwest University](www.nwu.edu.cn), 2007
+* M.S. in Mathematics, [New Mexico State University](www.nmsu.edu), 2015
+* Ph.D in Mathematics, [New Mexico State University](www.nmsu.edu), 2020
+
+Work experience
+======
+* August 2020 - present: Assistant Professor at [UTC](www.utc.edu) 
+* January 2014 - May 2020: Teaching Assistant at [ New Mexico State University](www.nmsu.edu)
+  
+
+
+
+  
+[Curriculum vitae](https://www.overleaf.com/read/vmypjsfhddmt)
+======
+
+
 This site is new and still under construction, more pages will come out soon. Please check it back if you are willing to know more about me.
 
 
