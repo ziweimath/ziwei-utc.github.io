@@ -15,8 +15,8 @@ main:
 #  - title: "Blog Posts"
 #    url: /year-archive/
     
-  - title: "More about me"
-    url: /cv/
+#  - title: "More about me"
+#    url: /cv/
     
 #  - title: "Guide"
 #    url: /markdown/
