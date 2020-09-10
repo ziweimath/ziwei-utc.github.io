@@ -29,7 +29,7 @@ Work experience
 
 
   
-[Curriculum vitae](https://www.ziwei-utc.github.io/files/ziweiCV.pdf)
+[Curriculum vitae](https://github.com/ziwei-utc/ziwei-utc.github.io/tree/master/files/ziweiCV.pdf)
 ======
 
 
