@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Ziwei Ma"
   avatar           : "ziwei.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : 
   location         : "Chattanooga"
   employer         : "UTC"
  # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
