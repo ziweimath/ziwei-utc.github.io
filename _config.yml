@@ -84,7 +84,7 @@ author:
   avatar           : "ziwei.png"
   bio              : "Your biography for the left-hand sidebar"
   location         : "Chattanooga"
-  employer         : "powerC.png"
+  employer         : "UTC"
  # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=dFri0xcAAAAJ&hl=en"
   email            :
@@ -181,9 +181,9 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
-  portfolio:
-    output: true
-    permalink: /:collection/:path/
+#  portfolio:
+#    output: true
+#    permalink: /:collection/:path/
   talks:
     output: true
     permalink: /:collection/:path/
