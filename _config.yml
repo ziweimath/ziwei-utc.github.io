@@ -83,8 +83,8 @@ author:
   name             : "Ziwei Ma"
   avatar           : "ziwei.png"
   bio              :  "Ph. D., Assistant Professor"
-  location         : "Chattanooga"
-  employer         : "UTC"
+  location         :  "Chattanooga"
+  employer         : [UTC](www.utc.edu)
  # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=dFri0xcAAAAJ&hl=en"
   email            :
