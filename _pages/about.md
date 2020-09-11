@@ -31,8 +31,9 @@ Work experience
 
 
   
-[Curriculum vitae](https://ziwei-utc.github.io/files/ziweiCV.pdf)
+Curriculum vitae
 ======
+[CV](https://ziwei-utc.github.io/files/ziweiCV.pdf)
 
 
 This site is new and still under construction, more pages will come out soon. Please check it back if you are willing to know more about me.
